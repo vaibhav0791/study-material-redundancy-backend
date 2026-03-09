@@ -1,0 +1,29 @@
+# requirements.txt
+
+# PDF Processing
+PyPDF2
+PDFMiner
+
+# Natural Language Processing
+nltk
+spacy
+transformers
+
+# Similarity Analysis
+scikit-learn
+FuzzyWuzzy
+
+# Clustering
+scipy
+scikit-metrics
+
+# Embeddings
+sentence-transformers
+
+# Web Framework
+fastapi
+
+# Utilities
+numpy
+pandas
+requests
