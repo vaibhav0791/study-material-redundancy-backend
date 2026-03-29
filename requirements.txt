@@ -27,3 +27,5 @@ fastapi
 numpy
 pandas
 requests
+
+uvicorn
