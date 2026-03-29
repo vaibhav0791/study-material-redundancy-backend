@@ -29,3 +29,5 @@ pandas
 requests
 
 uvicorn
+
+python-multipart
